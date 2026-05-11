@@ -18,9 +18,6 @@ It uses:
 ├── data/
 │   ├── goldendataset.json
 │   └── evaluation_results.csv
-├── prompts/
-│   ├── generator_prompt.txt
-│   └── judge_prompt.txt
 └── src/
     ├── main.py
     ├── evaluator.py
